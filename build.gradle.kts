@@ -27,5 +27,6 @@ subprojects {
 
     dependencies {
         implementation(kotlin("stdlib"))
+        runtimeOnly("org.apache.logging.log4j:log4j-core:2.13.3")
     }
 }
