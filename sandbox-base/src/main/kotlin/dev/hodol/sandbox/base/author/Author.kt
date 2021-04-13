@@ -1,4 +1,4 @@
-package dev.hodol.sandbox.base
+package dev.hodol.sandbox.base.author
 
 import jakarta.validation.constraints.NotNull
 import jakarta.validation.constraints.Size

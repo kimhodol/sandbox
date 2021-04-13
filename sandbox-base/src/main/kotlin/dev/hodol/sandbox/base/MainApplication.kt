@@ -1,5 +1,6 @@
 package dev.hodol.sandbox.base
 
+import dev.hodol.sandbox.base.author.Author
 import org.hibernate.reactive.mutiny.Mutiny
 import javax.persistence.Persistence.createEntityManagerFactory
 

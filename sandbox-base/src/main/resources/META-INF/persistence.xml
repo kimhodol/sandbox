@@ -4,8 +4,8 @@
              version="2.0">
     <persistence-unit name="base">
         <provider>org.hibernate.reactive.provider.ReactivePersistenceProvider</provider>
-        <class>dev.hodol.sandbox.base.Author</class>
-        <class>dev.hodol.sandbox.base.Book</class>
+        <class>dev.hodol.sandbox.base.author.Author</class>
+        <class>dev.hodol.sandbox.base.author.Book</class>
         <exclude-unlisted-classes>false</exclude-unlisted-classes>
         <properties>
 
